@@ -1,0 +1,53 @@
+.nav {
+}
+.ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.li {
+}
+.main-title {
+    text-align: center;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+}
+.card-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.card-title {
+}
+.card-desc {
+}
+.card-btn {
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-ul {
+    display: flex;
+    list-style: none;
+}
+.footer-li {
+   
+}
+.footer-li-icon {
+}
+.footer-info {
+}
+.footer-info-li {
+    list-style: none;
+}
+.footer-time {
+}
